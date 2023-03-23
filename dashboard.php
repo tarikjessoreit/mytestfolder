@@ -7,7 +7,7 @@ if (!isset($_SESSION['logstatus']) && $_SESSION['logstatus']!=true) {
 ?>
 <div class="container">
   <div class="row">
-    <div class="col-12">
+    <div class="col-12 pt-4">
       <h1>Dashboard</h1>
       <p>Hello 
         <?php 
